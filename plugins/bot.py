@@ -199,7 +199,7 @@ async def lol(ult):
 @ultroid_cmd(pattern="ping$", chats=[], type=["official", "assistant"])
 async def _(event):
     start = time.time()
-    x = await event.eor(" 🅿🅾🅽🅶 [!](https://te.legra.ph/file/82b4a4cfd9ee253f73316.jpg)!")
+    x = await event.eor(" Ye lo karlia ping 🏓!")
     end = round((time.time() - start) * 1000)
     uptime = time_formatter((time.time() - start_time) * 1000)
     await x.edit(get_string("ping").format(end, uptime))
