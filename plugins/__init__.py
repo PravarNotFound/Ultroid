@@ -73,6 +73,9 @@ KANGING_STR = [
     "Roses are red violets are blue, kanging this sticker so my pack looks cool",
     "Imprisoning this sticker...",
     "Mr.Steal-Your-Sticker is stealing this sticker... ",
+    "Akar Bakkar Bambe bol ye sticker hamko do... ",
+    "Can i take your sticker... ",
+    "Kya matlab ab ye sticker mera hogya... ",
 ]
 
 ATRA_COL = [
